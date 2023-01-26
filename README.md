@@ -32,3 +32,4 @@ sell
 - SerialCorder.dev, 「[Presenting Sheets Of Various Heights In SwiftUI](https://serialcoder.dev/text-tutorials/swiftui/presenting-sheets-of-various-heights-in-swiftui/)」, (最終閲覧日: 2023年1月26日)
 - Qiita, 「[SwiftUIアプリに検索機能を追加して、検索候補を提供（.searchable）（iOS 15）](https://qiita.com/MaShunzhe/items/0ad7a3e1c15d2a996c9e)」, (最終閲覧日: 2023年1月26日)
 - Webエンジニアエンジニア学習部屋, 「[【Swift UI】SF-Symbolsの一覧の使い方！Image(systemName:)](https://tech.amefure.com/swift-sf-symbols)」, (最終閲覧日: 2023年1月26日)
+- [統計WEB](https://bellcurve.jp/statistics/), (最終閲覧日: 2023年1月26日)
