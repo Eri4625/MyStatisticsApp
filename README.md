@@ -10,7 +10,7 @@ iOS 16.3 iPhone 11 Pro
 
 
 ## 参考文献
-・　Rambling and Delving , 「[[SwiftUI] JSONファイルをSwiftUIでDecodeし、Viewで活用する方法 (ObservableObject)]https://www.harubears.com/ja/tech-ja/swiftui-ja/how-to-decode-json-display-view-observableobject/＿
+・　Rambling and Delving , 「[[SwiftUI] JSONファイルをSwiftUIでDecodeし、Viewで活用する方法 (ObservableObject)](https://www.harubears.com/ja/tech-ja/swiftui-ja/how-to-decode-json-display-view-observableobject/)」
 
 
 ・　 https://tech.amefure.com/swift-sf-symbols
