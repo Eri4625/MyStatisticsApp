@@ -10,9 +10,9 @@ iOS 16.3 iPhone 11 Pro
 
 
 ## 参考文献
-・　Rambling and Delving , 「[[SwiftUI] JSONファイルをSwiftUIでDecodeし、Viewで活用する方法 (ObservableObject)](https://www.harubears.com/ja/tech-ja/swiftui-ja/how-to-decode-json-display-view-observableobject/)」, (最終閲覧日: 2023年1月26日)
-・ ちょげぶろぐ, 「[[SwiftUI]Buttonの押している間のスタイルを設定](https://www.choge-blog.com/programming/swiftuibuttonispressedstyle/)」, (最終閲覧日: 2023年1月26日)
-・
+- Rambling and Delving , 「[[SwiftUI] JSONファイルをSwiftUIでDecodeし、Viewで活用する方法 (ObservableObject)](https://www.harubears.com/ja/tech-ja/swiftui-ja/how-to-decode-json-display-view-observableobject/)」, (最終閲覧日: 2023年1月26日)
+- ちょげぶろぐ, 「[[SwiftUI]Buttonの押している間のスタイルを設定](https://www.choge-blog.com/programming/swiftuibuttonispressedstyle/)」, (最終閲覧日: 2023年1月26日)
+- 「[a]()」, (最終閲覧日: 2023年1月26日)
 
 ・　 https://tech.amefure.com/swift-sf-symbols
 ・ 
