@@ -12,7 +12,22 @@ iOS 16.3 iPhone 11 Pro
 ## 参考文献
 - Rambling and Delving , 「[[SwiftUI] JSONファイルをSwiftUIでDecodeし、Viewで活用する方法 (ObservableObject)](https://www.harubears.com/ja/tech-ja/swiftui-ja/how-to-decode-json-display-view-observableobject/)」, (最終閲覧日: 2023年1月26日)
 - ちょげぶろぐ, 「[[SwiftUI]Buttonの押している間のスタイルを設定](https://www.choge-blog.com/programming/swiftuibuttonispressedstyle/)」, (最終閲覧日: 2023年1月26日)
-- 「[a]()」, (最終閲覧日: 2023年1月26日)
+- 「[SwiftUI NavigationLink 配列で他のContentViewへ遷移する話 ? その2
+sell
+](https://qiita.com/papassan/items/2ea7d8c0f1b73ab851dc)」, (最終閲覧日: 2023年1月26日)
+- 「[How Can I create a math formula text view with LaTeX in SwiftUI](https://stackoverflow.com/questions/65090289/how-can-i-create-a-math-formula-text-view-with-latex-in-swiftui)」, (最終閲覧日: 2023年1月26日)
+- Developer, 「[Remove the scroll in WebKit View](https://developer.apple.com/forums/thread/134112)」, (最終閲覧日: 2023年1月26日)
+- 「[]()」, (最終閲覧日: 2023年1月26日)
+- 「[]()」, (最終閲覧日: 2023年1月26日)
+- 「[]()」, (最終閲覧日: 2023年1月26日)
+- 「[]()」, (最終閲覧日: 2023年1月26日)
+- 「[]()」, (最終閲覧日: 2023年1月26日)
+- 「[]()」, (最終閲覧日: 2023年1月26日)
+- 「[]()」, (最終閲覧日: 2023年1月26日)
+- 「[]()」, (最終閲覧日: 2023年1月26日)
+- 「[]()」, (最終閲覧日: 2023年1月26日)
+- 「[]()」, (最終閲覧日: 2023年1月26日)
+
 
 ・　 https://tech.amefure.com/swift-sf-symbols
 ・ 
